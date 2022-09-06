@@ -1,0 +1,1 @@
+uvicorn app:payment_service --reload

@@ -1,0 +1,14 @@
+You will be building a basic fintech  API with the following User stories.
+
+- Users can create an account(Basic Information- email, name, password)
+- User can fund their Account with a Card or Bank Transfer.
+- Users can send money to another User using their email.
+- Users can only send money to their Beneficiaries.
+- Use webhook only to confirm if transfer or funding is successful (check out Ngrok to help out).
+- Writing tests for this is a plus
+- Please use MySQL for this test, any Node framework can be used
+- Knowledge of Typescript is a huge plus
+
+Kindly expose APIs to enable these activities to be carried out. You can abstract all external API calls to payment providers for **Funding Accounts** and **Sending money**  
+
+NB: Use Paystack Flutterwave or Monnify for external APIs

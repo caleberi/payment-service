@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sentry-sdk
+python-decouple
+redis
+pika
+pymongo
